@@ -1,135 +1,135 @@
 [[aws_c_event_stream]]
 arch = "aarch64"
-git-tree-sha1 = "fa438128d88d6b29b79f6b66121dc0213b7c232d"
+git-tree-sha1 = "1401cffdc87c471f702f9ba07b930fd038121b0b"
 os = "macos"
 
     [[aws_c_event_stream.download]]
-    sha256 = "f85d3c27c635802bec48e5e47216df6003353ee14ce79ccd975df9727def2b09"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "215099b49e91b206423fb18d5bbf1c2b53485eb35c0e16c69579f4f0e278bfd4"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.aarch64-apple-darwin.tar.gz"
 [[aws_c_event_stream]]
 arch = "aarch64"
-git-tree-sha1 = "9ecfa14a71363aff5887dddf9f9ee18d63c7ad40"
+git-tree-sha1 = "c9b22aac124b28e9feee1eee85de7a36e1e1986f"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "147241bb2d06681bc2706be996a678212216f20670bd16875b6006cbb0285fd4"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "a62f604c6ccb0281e028e00af5592dd454b3e17d346ba5e3bf9da7da1d5c02fb"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.aarch64-linux-gnu.tar.gz"
 [[aws_c_event_stream]]
 arch = "aarch64"
-git-tree-sha1 = "906fd6292deafa5749215e1c22c55e85e6e8e4b9"
+git-tree-sha1 = "556805efc7c626b240808d25933998d903559e67"
 libc = "musl"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "d1fdddd0ae4cd4ca265e960b5192b2980638aefacd2fc19183271c94bfba24e9"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.aarch64-linux-musl.tar.gz"
+    sha256 = "b43f10c46449b08582a21e5b3460e10c64f41dcf643b1cf44f4e112c52995c01"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.aarch64-linux-musl.tar.gz"
 [[aws_c_event_stream]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9b582393c21237ea654dc5c80779362cff487a59"
+git-tree-sha1 = "2038bfe3102624b69d74d13d41ec5c9ecb4347f2"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "f6d6278fedef9e707d7034a3035536fd5c45320dcd3a1cb41bf3b4416330ed64"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "707aded0b86a764aa197c57be4900a01603caa19f39885b244e6b35e2d5b9037"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_event_stream]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c6980b227523a3e4907367b5f00aa4ee8e4708b6"
+git-tree-sha1 = "0c25efda312c5bff5885ffb677aee2a154d30621"
 libc = "musl"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "546c0cb9bc93a903188bf3f0d8dd28875fc8b9a2de84a46e498f6f2796d7cc0d"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "8876961af10e5be7c06822e52307cf0620336b0a552928be29aa12a77cf3633f"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_event_stream]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7c59ed8bb0597ad5898581ba767297f0ab885852"
+git-tree-sha1 = "f4c0750f98c9ee7fc7181b50ffcc3bdf958279a7"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "5cc5f783400b1b291219dc5771ad23dd7761f9cb13ddc45a8128bff66516bbec"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "da569893a99086941cb14fec83a77ce470fe7e88cde03077d38ee2b470b2ed96"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_event_stream]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "237acd9a41a44ded8971c0db20afee754d0e77cb"
+git-tree-sha1 = "05bf46fde9f4ec1372c5a2d0bb7c3245a01755d2"
 libc = "musl"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "1eb91d5d73a2ecf9c6234a920f77904df9d454bfa2e6f956e8aff0872065ad53"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9c973c1c7de576ae2926c3a60eadd31a5be8072414b707962a3412c0ce173707"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_event_stream]]
 arch = "i686"
-git-tree-sha1 = "b782e49745630b122dd4f5a207b8ce2dbff5a43b"
+git-tree-sha1 = "f91f9408be1bef16a5aea5a605d0b88441c20b1b"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "871f521590effc73e8095919825b76a7c48d599cf74cbaafdd226ea93bc5c5fd"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.i686-linux-gnu.tar.gz"
+    sha256 = "26a8e0b81d1b1417df3f4bf4c2aa44c54eaab77be4931519131341098ee558ea"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.i686-linux-gnu.tar.gz"
 [[aws_c_event_stream]]
 arch = "i686"
-git-tree-sha1 = "5773a6a1b829769e87e356e47722d9c14c37522c"
+git-tree-sha1 = "bc49d5d9a92f6328b13ecfc7c7de0be78ab7232b"
 libc = "musl"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "5daf8304712667c402c2fc86fb6255e5db421c557d24fe4753bcb378eb8371d0"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.i686-linux-musl.tar.gz"
+    sha256 = "da0eed1a7d0b0ac6f1e7adc7de0747301813af3bde1c877d6d9c664bb4279155"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.i686-linux-musl.tar.gz"
 [[aws_c_event_stream]]
 arch = "powerpc64le"
-git-tree-sha1 = "218ac8f29c7ca2992b8b96881aec6e762c830129"
+git-tree-sha1 = "d29b6905f8831b3af47779d742ab57a45ddd15a2"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "bdd537d2735ab6d3fd10edd45248c88d606b69856babb1a7a3df7c5701b5688d"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b6332c0c95edabff518e9385e1810f9e8e17f5cff63da10cc684c50e21362377"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_event_stream]]
 arch = "x86_64"
-git-tree-sha1 = "e57e61d5cf54fd395b342a1cdf33395c3b55233a"
+git-tree-sha1 = "da611903929534560fd27a70f62e93ca54d4ee50"
 os = "macos"
 
     [[aws_c_event_stream.download]]
-    sha256 = "b9b64d5e0f83cb89e343bbef460faa3724137123d84e86482018b6949db16170"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "715b7e2ec627596a5b64601b406d2f4afd1117cf4a661330b9ea16407675379c"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.x86_64-apple-darwin.tar.gz"
 [[aws_c_event_stream]]
 arch = "x86_64"
-git-tree-sha1 = "4d65853813ab871a869e1108c5937252e652aec3"
+git-tree-sha1 = "b4143ba316d5c07093674d4d14fbcf47844b4ae0"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "84d7444453b3b878fb13307d6447b096f9eb37636486dcf3a6e888de0cb38a1f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "18bef087e147ef890990bdebabd0ab0f96a46bc75db4121915e4e6a4ec8161dd"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.x86_64-linux-gnu.tar.gz"
 [[aws_c_event_stream]]
 arch = "x86_64"
-git-tree-sha1 = "7cb254134847793ac698cb97122d2285a2823423"
+git-tree-sha1 = "642a5368aa7417ea831f3bf9203332a4c3a1d31d"
 libc = "musl"
 os = "linux"
 
     [[aws_c_event_stream.download]]
-    sha256 = "20300e2899ba06ec96086425d0baa103e7e411e5e12539da3f160c9d7c481431"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.x86_64-linux-musl.tar.gz"
+    sha256 = "51db9f23d3e045f6528ff292abd8f0ea7e8ca85ba036591c748cce3dfdf28f76"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.x86_64-linux-musl.tar.gz"
 [[aws_c_event_stream]]
 arch = "x86_64"
-git-tree-sha1 = "7f4a56ee2c78c8bd83ec0ba0358d064b09edb472"
+git-tree-sha1 = "9572bf11a0b0040c35af32d7fe932c4e25b076d3"
 os = "freebsd"
 
     [[aws_c_event_stream.download]]
-    sha256 = "7f9c791847108888f59c4f313c9dd33d2dbcc2e7dee2992e9f64cb77d73ec845"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6e78422d255bb5e7bbc875401d4044f37a6ef00567eb48a2ee2ab9b5cf490423"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_event_stream]]
 arch = "x86_64"
-git-tree-sha1 = "79e86fd91265bac29f45956077c06f2cc550f42d"
+git-tree-sha1 = "b356b2ba579bd7a1c32878273b0777f1f89f29d2"
 os = "windows"
 
     [[aws_c_event_stream.download]]
-    sha256 = "2ec407056e919ad997c10d99790c69756dd8df1a2ae9e4170f9ac9af52725d16"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+0/aws_c_event_stream.v0.3.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8452f4ba161480e455b6e8ac30ad9640e98dda1ff5fc300c1716fdacb8170898"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_event_stream_jll.jl/releases/download/aws_c_event_stream-v0.3.2+1/aws_c_event_stream.v0.3.2.x86_64-w64-mingw32.tar.gz"
